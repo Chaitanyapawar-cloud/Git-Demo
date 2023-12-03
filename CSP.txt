@@ -1,3 +1,6 @@
 System.out.println("Hello World!!");
 add no to list
 print list
+
+
+store in db

@@ -4,3 +4,5 @@ print list
 
 
 store in db
+
+create an avatar for user
